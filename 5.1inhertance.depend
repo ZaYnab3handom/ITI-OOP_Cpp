@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1674472714 source:d:\oop c++\day5\lab5\5.1inhertance\main.cpp
+	<iostream>
+	"Base.h"
+	"Derived.h"
+
+1674472787 source:d:\oop c++\day5\lab5\5.1inhertance\src\derived.cpp
+	"Derived.h"
+	<iostream>
+
+1674471979 d:\oop c++\day5\lab5\5.1inhertance\include\derived.h
+	"Base.h"
+
+1674471814 source:d:\oop c++\day5\lab5\5.1inhertance\src\base.cpp
+	"Base.h"
+	<iostream>
+
+1674472092 d:\oop c++\day5\lab5\5.1inhertance\include\base.h
+
